@@ -39,6 +39,7 @@ function displayData(songs) {
     });
   });
 }
+////nfkfknk///
 
 async function getlyrics(nameOfTheSong, artist) {
   const req = await fetch(
